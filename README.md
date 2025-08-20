@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Anoop Kumar Yadav
 
 💻 Full-Stack Developer | Python & Django Enthusiast  
+Passionate Full-Stack Developer | Python & Django Enthusiast | Exploring DSA, APIs, and Cloud to build impactful web applications.
+
 
 ---
 
